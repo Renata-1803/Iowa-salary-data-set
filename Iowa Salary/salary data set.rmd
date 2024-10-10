@@ -1,0 +1,25 @@
+---
+title: "salary data set"
+output: html_document
+date: "2024-10-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Iowa Department of Administrative Services. (2023, November 20). State of Iowa salary book: Government employees. State of Iowa. https://data.iowa.gov
+
+A data set including people's name, gender, working position, their agreed upon salary when hired, ther total salry paid in a year, and lastly any expenses involving transportation or substinence meaning food. It was created by the iowas department of administrative services.
+
+
+Fiscal Year: fiscal year
+Name: names of participants
+Gender: sex of particapnts
+Position: Work positions 
+Base Salary: payment agreement upon hire 
+Total Salary Paid: Paid for a year
+Travel and Substinence: Transportation and food
+
+
+
+
